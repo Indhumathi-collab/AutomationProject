@@ -25,7 +25,10 @@ This project uses [Playwright](https://playwright.dev/) to automate and visually
 ---
 
 To run scripts:
-use command - npx playwright test
+use command :  npx playwright test
+
+To view the report:
+use command :  npx playwright show-report
 
 to run headless > go to playwright.config.js & set up 'headless' to false
 
